@@ -1,0 +1,39 @@
+body {
+    background: #f1f1f1;
+    font-family: "M PLUS 1", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #424242;
+    line-height: 1.4em;
+}
+
+section#aaa4j {
+    padding: 4em 2em 0;
+    text-align: center;
+}
+
+section#aaa4j img {
+    max-width: 8em;
+    pointer-events: none;
+}
+
+section#aaa4j h1 {
+    display: none;
+}
+
+section#aaa4j p {
+    font-size: 1.2em;
+}
+
+section.project {
+    padding: 1em;
+}
+
+a {
+    color: #a40000ff;
+}
+
+img.github-mark {
+    height: 1em;
+}
